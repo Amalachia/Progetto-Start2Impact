@@ -1,0 +1,11 @@
+.page {
+  background-color: #DDE0E3;}
+.h1, p {
+  background-color: #DDE0E3;
+}
+.h1 {
+  text-align:center
+}
+.p {
+  text-align: justify;
+}
